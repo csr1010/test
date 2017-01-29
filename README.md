@@ -1,0 +1,1 @@
+1. buildiig a simple angular app for candy business
